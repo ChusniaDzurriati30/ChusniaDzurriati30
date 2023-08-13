@@ -1,16 +1,16 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**ChusniaDzurriati30/ChusniaDzurriati30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Chusnia Dzurriati**.
 
-Here are some ideas to get you started:
+Saya seorang **Mahasiswa Fakultas Teknik Dan Sains** di [Universitas Muhammadiyah Purwokerto](http://www.ump.ac.id/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya tertarik secara khusus dengan bidang front-end development, di mana saya dapat menggabungkan desain visual
+yang menarik dengan pemrograman interaktif untuk menciptakan pengalaman pengguna yang luar biasa. Karier aspirasi
+saya adalah menjadi seorang front-end developer yang terampil dan kreatif, dapat menciptakan antarmuka web yang
+responsif dan estetis, serta memberikan pengalaman pengguna yang menyenangkan dan intuitif.
+Tempat Kelahiran: Kota Pemalang, Jawa Tengah
+Tanggal Kelahiran: 13 Juni 2003
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/chusniadzurriati)ku ya.
+
+
