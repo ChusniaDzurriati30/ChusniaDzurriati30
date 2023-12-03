@@ -12,7 +12,7 @@ responsif dan estetis, serta memberikan pengalaman pengguna yang menyenangkan da
 Tempat Kelahiran: Kota Pemalang, Jawa Tengah
 Tanggal Kelahiran: 13 Juni 2003
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/chusniadzurriati)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/chusniadzurriati/)ku ya.
 
 ### Github Statistic
 <p align="left">
